@@ -42,5 +42,5 @@ yarn install
 npm run dev
 ```
 
-###Ressources utilisés
+###Ressources utilisés <br>
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
