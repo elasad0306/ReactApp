@@ -11,8 +11,8 @@ Un Todo List fait en react. Mon premier projet en react 😊
 ## 🛠️ Technologies utilisées
 
 - **React 18** - Bibliothèque JavaScript pour les interfaces utilisateur
-- **Tailwind Css** - Pour le style
-- **Lucide** - Pour les icons
+- **[Tailwind Css](https://tailwindcss.com/)** - Pour le style
+- **[Lucide](https://lucide.dev/)** - Pour les icons
 
 ## 📦 Installation
 
