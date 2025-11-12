@@ -44,5 +44,4 @@ npm run dev
 
 ###Ressources utilisés <br>
 ![React](https://img.shields.io/badge/React-18.2.0-blue) <br>
-![Lucide](https://img.shields.io/badge/https%3A%2F%2Flucide.dev%2F) <br>
-![Tailwind Css](https://img.shields.io/badge/https%3A%2F%2Ftailwindcss.com%2F)
+
